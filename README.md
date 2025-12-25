@@ -35,12 +35,9 @@
 ### 📊 My GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=boradmir&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en&hide_border=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boradmir&layout=compact&theme=tokyonight&langs_count=6&hide_border=true" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=boradmir&show_icons=true&theme=tokyonight" height="180" alt="stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boradmir&layout=compact&theme=tokyonight" height="180" alt="languages" />
 </div>
 
 ---
